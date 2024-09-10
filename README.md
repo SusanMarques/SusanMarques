@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Susan Marques</h1>
 <h3 align="center">Concluinte em licenciatura em informática no IFRN e cursando desenvolvimento de sistemas no Senac/RN</h3>
 
-- 🌱 I’m currently learning **JavaScript e Html**
+- 🌱 I’m currently learning **JavaScript e React Native**
 
-- 💬 Ask me about **Html, CSS, PhP, JavaScript**
+- 💬 Ask me about **JavaScript, PHP, Laravel, React Native, Expo, Electron, React, API rest, Git e Github, PostgreSQL, SQL server, MYSQL, HTML e CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
